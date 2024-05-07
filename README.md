@@ -42,9 +42,9 @@ This project is aimed at automating the care of plants by monitoring soil moistu
 
 ![image](https://github.com/KajalBhammar/Plant-Monitoring-Using-IOT/assets/93076200/d98d1a6c-0f84-4938-90f4-5dab7d385aa0)
 
-## Contributing
+## Demo
 
-Contributions are welcome! Feel free to submit issues or pull requests.
+https://github.com/KajalBhammar/Plant-Monitoring-Using-IOT/assets/93076200/7b21b4b5-aa07-4480-b68c-4cb27c4e55c8
 
 ## License
 
