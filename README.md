@@ -40,8 +40,7 @@ This project is aimed at automating the care of plants by monitoring soil moistu
 
 ## Physical connections between the components and the NodeMCU
 
-![image](https://github.com/KajalBhammar/Plant-Monitoring-Using-IOT/assets/93076200/ddc8fa1a-4e67-466b-889f-4640413ca2f3)
-
+![image](https://github.com/KajalBhammar/Plant-Monitoring-Using-IOT/assets/93076200/d98d1a6c-0f84-4938-90f4-5dab7d385aa0)
 
 ## Contributing
 
