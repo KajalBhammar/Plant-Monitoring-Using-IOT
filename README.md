@@ -1,4 +1,4 @@
-# Plant Care System
+# Plant Monitoring System
 
 This project is aimed at automating the care of plants by monitoring soil moisture, temperature, humidity, and water level, and controlling a water pump accordingly. The data is logged to Firebase for remote monitoring and analysis.
 
